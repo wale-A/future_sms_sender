@@ -1,0 +1,12 @@
+﻿<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+  <item
+    android:id="@+id/msgMenu_newMessage"
+    android:title="New Message"
+    android:showAsAction="ifRoom" />
+    
+    <item
+      android:id="@+id/msgMenu_clearMessages"
+      android:title="Clear All"
+      android:showAsAction="ifRoom" />
+    
+</menu>
